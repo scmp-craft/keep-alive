@@ -1,0 +1,11 @@
+{
+  "name": "scmp-craft-keep-alive",
+  "version": "1.0.0",
+  "description": "Keep scmp craft alive",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "SCMP Craft <scmp.craft@gmail.com>",
+  "license": "MIT"
+}
